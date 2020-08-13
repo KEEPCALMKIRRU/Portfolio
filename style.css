@@ -1,0 +1,78 @@
+html {
+    scroll-behavior: smooth;
+  }
+#a1{  
+    border-left:5px solid rgb(0, 21, 255) ;
+    margin:5% 5% 0% 20% ;
+    color: rgb(0, 0, 0);
+    
+}
+h3{
+    font-size: 30px;
+    margin-left: 5%;
+
+}
+h1{
+    margin-left:2%;
+}
+h2{
+   color: rgb(90, 7, 58);
+   padding: 2px;
+
+}
+div.background {
+   width: 100%;
+   height:  18%;
+}
+.a2{
+margin-top: 5%;
+}
+.card{
+    width: 25%;
+    text-align: center;
+    margin: 20px;
+    padding: 3px;
+}
+p{
+    margin:0% 15% 5% 15%;
+    color: rgba(32, 78, 47, 0.891);
+    font-family: Times New Roman;
+    font-size: 20px;
+}
+
+#card{
+    
+    margin: 20px;
+    text-align: center;
+    width: 30%;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.flex-container
+ {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.flex-container >div {
+width:fit-content;
+padding: 20px;
+margin: 2%;
+text-align:center;
+
+}
+
+#bar{
+    margin:5% 15% 5%  15%;
+}
+#icon{
+    font-size:  50px;
+    margin: 3%;
+    color: rgb(10, 65, 231);
+}
+a:hover{
+  
+    text-decoration: none;
+}
