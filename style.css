@@ -76,3 +76,12 @@ a:hover{
   
     text-decoration: none;
 }
+
+.footer{
+    text-align: center;
+    background-color: lightslategray;
+}
+i{
+    font-size:20px;
+}
+
