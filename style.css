@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
   }
 #a1{  
     border-left:5px solid rgb(0, 21, 255) ;
@@ -76,12 +76,11 @@ a:hover{
   
     text-decoration: none;
 }
-
 .footer{
     text-align: center;
-    background-color: lightslategray;
+    background-color: rgb(36, 70, 88);
+    color: white;
 }
 i{
     font-size:20px;
 }
-
