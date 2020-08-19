@@ -7,17 +7,20 @@ html {
     color: rgb(0, 0, 0);
     
 }
-h3{
-    font-size: 30px;
-    margin-left: 5%;
-
-}
 h1{
     margin-left:2%;
+    font-weight: 600;
 }
 h2{
    color: rgb(90, 7, 58);
    padding: 2px;
+
+}
+
+h3{
+    font-size: 25px;
+    font-weight: 200;
+    margin-left: 4%;
 
 }
 div.background {
@@ -28,7 +31,7 @@ div.background {
 margin-top: 5%;
 }
 .card{
-    width: 25%;
+width: fit-content;
     text-align: center;
     margin: 20px;
     padding: 3px;
@@ -44,7 +47,7 @@ p{
     
     margin: 20px;
     text-align: center;
-    width: 30%;
+    width:fit-content;
     font-size: 20px;
     border-radius: 5px;
 }
